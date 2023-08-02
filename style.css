@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    position: relative;
+    height: 100vh; /* Adjust this value as needed */
+}
+
+img {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin: 20px; /* Optional margin from the bottom and left edges */
+}
